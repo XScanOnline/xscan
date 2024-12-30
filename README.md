@@ -2,7 +2,6 @@
 
 Advanced AI-powered analysis tool for memecoin tokens on Solana. Get comprehensive security reports and risk assessments within minutes of token creation.
 
-![XScan Preview](./public/preview.png)
 
 ## 🚀 Features
 
@@ -44,9 +43,9 @@ npm run build
 - Price Manipulation Detection
 - Contract Security Audit
 
-## 🌐 Live Demo
+## 🌐 Website
 
-Visit [XScan](https://xscan.dev) to try it out!
+Visit [XScan](https://xscan.online) to try it out!
 
 ## 📄 License
 
